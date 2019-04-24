@@ -1,0 +1,7 @@
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\obj\Release\ClassLesson.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\obj\Release\ClassLesson.csprojAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\bin\Release\ClassLesson.exe.config
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\bin\Release\ClassLesson.exe
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\bin\Release\ClassLesson.pdb
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\obj\Release\ClassLesson.exe
+C:\Users\Asus\Documents\Visual Studio 2019\Templates\ProjectTemplates\Visual C#\myProject\P210\ClassLesson\obj\Release\ClassLesson.pdb

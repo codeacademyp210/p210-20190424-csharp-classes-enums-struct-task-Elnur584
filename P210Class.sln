@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "P210Class", "..\..\source\repos\P210Class\P210Class\bin\Debug\P210Class.exe", "{9710A0DE-5FEC-4FDD-AA74-21C10C16759D}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\Asus\source\repos\P210Class\P210Class\bin\Debug\P210Class.exe
+		RemoteMachine = DESKTOP-QQASU2O
+		StartingDirectory = C:\Users\Asus\source\repos\P210Class\P210Class\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9710A0DE-5FEC-4FDD-AA74-21C10C16759D}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E752ED7-EB44-4CA0-A75A-CD0F2A8838FD}
+	EndGlobalSection
+EndGlobal
